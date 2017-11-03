@@ -1,5 +1,8 @@
 # project-2
-Project Requirements  
+
+
+Project Requirements
+
 The following requirements MUST be met:    
 Utilize a web server built with node.js and Express Have API routes for GET and POST requests to retrieve and create data, respectively Have static or dynamic non-API routes (serve HTML, CSS, and JavaScript for the UI) Be backed by a MySQL/JawsDB Database in Heroku and accessed via an ORM (not necessarily Sequelize) Be deployed using Heroku Utilize at least one new library, package, or technology that we haven’t discussed Have a polished frontend / UI Have folder structure that meets MVC paradigm Meet good quality coding standards (indentation, scoping, naming)   
 
