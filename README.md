@@ -1,4 +1,4 @@
-# project2 - Recipe Finder
+#Project2 - Recipe Finder
 
 - With this application everytime you go grocery shooping all you have to do is insert the new items into your database.
   
